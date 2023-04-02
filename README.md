@@ -27,3 +27,6 @@ a-nyx (Original Source Code)
 - GitHub repository URL: https://github.com/cherah-petra/Challenge-03-JS-Password-Generator
 - License: license.txt
 
+
+
+
