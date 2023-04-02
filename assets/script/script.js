@@ -1,4 +1,4 @@
-// Characters
+// Characters for selection prompts
 
 var upperCase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 var lowerCase = 'abcdefghijklmnopqrstuvwxyz';
