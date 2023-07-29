@@ -1,5 +1,5 @@
 
-# CP Horiseon Refactoring Challenge 01
+# Password Generator
 
 ## Description
 
